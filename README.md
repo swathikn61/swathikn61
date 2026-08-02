@@ -68,7 +68,7 @@ What I enjoy working on
 
 <p align="center">
 
-🦜 LangChain • 🕸️ LangGraph • 🦙 Ollama • 🔍 FAISS • 🧠 RAG
+🔗 LangChain • 🕸️ LangGraph • 🦙 Ollama • 🔍 FAISS • 🧠 RAG
 
 </p>
 
