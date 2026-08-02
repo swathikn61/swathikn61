@@ -219,6 +219,6 @@ Always shipping 🚀
 
 ### 🌷 *"Building software that makes life a little easier, one commit at a time."*
 
-⭐ Thanks for stopping by — happy coding! 💜
+⭐ Thanks for stopping by - happy coding! 💜
 
 </div>
