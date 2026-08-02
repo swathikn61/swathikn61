@@ -175,23 +175,15 @@ Chat with PDFs using Retrieval-Augmented Generation and local LLMs.
 
 ---
 
-# 🌱 Currently Exploring
+# 🌙 Beyond the Code
 
-🌸 System Design
+💡 Curious about how things work
 
-☁️ Cloud Computing
+📖 Learning something new every day
 
-⚡ Distributed Systems
+🤝 Love collaborating on meaningful projects
 
-📦 Docker & Kubernetes
-
-📨 Kafka
-
-🧠 AI Infrastructure
-
-🤖 Agentic AI
-
-🦜 LangGraph & MCP
+✨ Always looking for the next challenge
 
 ---
 
