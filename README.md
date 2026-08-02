@@ -124,14 +124,6 @@ An AI-powered document assistant that lets users upload PDFs and ask questions i
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swathikn61&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🌙 Beyond the Code
 
 💡 Curious about how things work
