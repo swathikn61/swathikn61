@@ -1,196 +1,189 @@
-<h1 align="center">
-Hi 👋, I'm Swathi
-</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Engineer • Full Stack Developer • AI Engineer
-</h3>
+# ✨ Hi, I'm Swathi 👋
+
+### 💻 Backend Engineer • 🌸 Full Stack Developer • 🤖 AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=F48FB1&center=true&vCenter=true&width=700&lines=Building+Production-Ready+Software+✨;Backend+%7C+AI+Engineering;Spring+Boot+%7C+Python+%7C+React;Always+Learning+Something+New+🌷" />
+
+<img src="https://komarev.com/ghpvc/?username=swathikn61&label=Profile+Views&color=ff69b4&style=flat-square" />
+
+</div>
+
+---
+
+# 🌸 About Me
+
+<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🌷 I enjoy building software that is **simple, scalable, and reliable.**
+
+💖 Passionate about
+
+- 🤖 AI Engineering
+- ⚙️ Backend Development
+- ☁️ Cloud & Distributed Systems
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🧠 Agentic AI
+
+✨ Currently learning
+
+- Kubernetes
+- Kafka
+- Redis
+- MCP
+- System Design
+
+💌 Always excited to collaborate on interesting projects.
+
+<br>
+
+---
+
+# 💕 Tech Stack
+
+### 👩‍💻 Languages
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Building+Production-Ready+Software;Spring+Boot+%7C+Python+%7C+React;Backend+Engineering;AI+Applications+%26+LLMs;Always+Learning+Something+New+🚀" />
-</p>
-
----
-
-## 👩‍💻 About Me
-
-I'm a software engineer passionate about building scalable backend systems, intelligent AI applications, and clean full-stack products.
-
-I enjoy solving engineering problems that go beyond building features—designing reliable APIs, optimizing performance, implementing caching, rate limiting, authentication, CI/CD pipelines, and integrating modern AI workflows.
-
-Currently interested in:
-
-- ⚙️ Backend Engineering
-- 🤖 AI Engineering
-- 🧠 Agentic AI
-- 📚 Retrieval-Augmented Generation (RAG)
-- ☁️ Cloud & Distributed Systems
-
----
-
-## 🚀 Tech Stack
-
-### Languages
-
-<p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,ts,js" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-### Database
+### 🗄 Database
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
 </p>
 
-### AI / ML
+### 🤖 AI
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<p align="center">
+
+🦜 LangChain • 🤗 Hugging Face • 🦙 Ollama • 🔍 FAISS • 🧠 RAG
+
 </p>
-
-**Also working with**
-
-- LangChain
-- Ollama
-- FAISS
-- Hugging Face
-- OpenAI APIs
-- RAG Pipelines
 
 ---
 
-## ⭐ Featured Projects
+# 🌟 Featured Projects
 
 ### 🔗 URL Shortener
 
-Production-ready URL shortening service built using Spring Boot.
+🚀 Spring Boot • Redis • Docker • JWT
 
-**Highlights**
-
-- Custom Short URLs
-- Analytics
-- Rate Limiting
-- Redis Cache
-- Docker
-- JWT Authentication
+Production-ready URL shortening service with caching, authentication and analytics.
 
 ---
 
 ### 🤖 PDF Chatbot
 
-AI-powered chatbot capable of answering questions from uploaded PDFs.
+🐍 FastAPI • LangChain • FAISS • LLM
 
-**Tech**
-
-Python • FastAPI • LangChain • FAISS • LLMs
+Chat with PDFs using Retrieval-Augmented Generation.
 
 ---
 
 ### 💰 Personal Finance Tracker
 
-A full-stack finance dashboard for tracking income, expenses, and budgeting.
+⚛️ React • PostgreSQL • TypeScript
 
-**Tech**
-
-React • TypeScript • PostgreSQL
+Track expenses, budgets and financial insights.
 
 ---
 
 ### 🧳 Adaptive Trip Planner
 
-AI-assisted travel planner with personalized recommendations.
+✨ AI-powered travel planner with personalized recommendations.
 
 ---
 
 ### 📊 Multi-Model Evaluation Dashboard
 
-Compare outputs from multiple LLMs using an interactive evaluation dashboard.
+Compare outputs from multiple Large Language Models.
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=swathikn61&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=swathikn61&show_icons=true&theme=rose_pine&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathikn61&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathikn61&layout=compact&theme=rose_pine&hide_border=true"/>
 
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swathikn61&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 📊 Contribution Graph
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=swathikn61&theme=rose-pine&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swathikn61&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-## 🏆 Currently Exploring
+<div align="center">
 
-- Distributed Systems
-- System Design
-- Kubernetes
-- Docker
-- Kafka
-- Redis
-- Event-Driven Architecture
-- Agentic AI
-- MCP
-- AI Infrastructure
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swathikn61&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+# 🌱 Currently Exploring
 
-<p>
+🌸 System Design
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+☁️ Cloud Computing
+
+⚡ Distributed Systems
+
+📦 Docker & Kubernetes
+
+📨 Kafka
+
+🧠 AI Infrastructure
+
+🤖 Agentic AI
+
+---
+
+# 💌 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-f48fb1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/swathikn61">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<i>
-"Building software that is reliable, scalable, and delightful to use."
-</i>
+### 🌷 *"Building software that makes life a little easier, one commit at a time."*
 
-</p>
+⭐ Thanks for visiting my profile!
+
+</div>
