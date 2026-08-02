@@ -1,22 +1,12 @@
 <div align="center">
 
-# 🌸 Hi, I'm Swathi 👋
+# ✨ Hi, I'm Swathi 👋
 
-### Backend Engineer • AI Engineer • Full Stack Developer
+### 💻 Backend Engineer • 🌸 Full Stack Developer • 🤖 AI Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=C792EA&center=true&vCenter=true&width=750&lines=Building+Production-Ready+Software+✨;Spring+Boot+•+FastAPI+•+Node.js;AI+Applications+•+RAG+•+LangChain;Cloud+•+Docker+•+AWS;Always+learning+something+new+🌷" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=F48FB1&center=true&vCenter=true&width=750&lines=Building+Production-Ready+Software+✨;Backend+Engineering+☕;Spring+Boot+%7C+Python+%7C+React;AI+Applications+%7C+RAG+%7C+LangChain;Always+Learning+Something+New+🌷" />
 
-<img src="https://komarev.com/ghpvc/?username=swathikn61&label=Profile+Views&color=C792EA&style=flat-square"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-*"Coffee, curiosity and clean code."* ☕✨
+<img src="https://komarev.com/ghpvc/?username=swathikn61&label=Profile+Views&color=ff69b4&style=flat-square"/>
 
 </div>
 
@@ -24,146 +14,136 @@
 
 # 🌸 About Me
 
-```yaml
-name: Swathi
+<img align="right" width="290" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-role: Backend Engineer
+🌷 I love building **production-ready backend systems, AI-powered applications, and scalable full-stack products.**
 
-currently_building:
-  - Scalable Backend Systems
-  - AI Applications
-  - Full Stack Projects
+💖 What I enjoy working on
 
-currently_learning:
-  - Kubernetes
-  - Distributed Systems
-  - System Design
-  - AI Infrastructure
+- ⚙️ Backend Engineering
+- 🤖 AI Engineering
+- 🧠 Agentic AI
+- 📚 Retrieval-Augmented Generation (RAG)
+- ☁️ Cloud & Distributed Systems
 
-interests:
-  - Backend Engineering
-  - Cloud
-  - LLM Applications
-  - Event Driven Systems
-```
+✨ Currently exploring
 
-Hi! I'm **Swathi**, a Computer Science graduate passionate about building **production-ready software** that is reliable, scalable, and easy to maintain.
+- Kubernetes
+- Kafka
+- Redis
+- MCP
+- System Design
+- AI Infrastructure
 
-I enjoy designing backend systems, building REST APIs, experimenting with AI workflows, and deploying applications using cloud technologies.
+💌 Open to collaborating on backend, AI, and full-stack projects.
 
-Recently I've been exploring **LangChain**, **RAG**, **LLMs**, **Redis**, **Kafka**, and **AWS** while strengthening my system design knowledge.
+<br>
 
 ---
 
 # 💕 Tech Stack
 
-<div align="center">
+### 👩‍💻 Languages
 
-### Languages
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,cpp,ts,js,sql"/>
+</p>
 
-<br><br>
+### ⚙️ Backend
 
-### Backend
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi"/>
+</p>
 
-<br><br>
+### 🎨 Frontend
 
-### Frontend
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+</p>
 
-<br><br>
+### ☁️ Cloud & DevOps
 
-### Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase"/>
-
-<br><br>
-
-### Cloud & DevOps
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,linux"/>
+</p>
 
-</div>
+### 🗄 Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+</p>
+
+### 🤖 AI
+
+<p align="center">
+
+🦜 LangChain • 🕸️ LangGraph • 🤗 Hugging Face • 🦙 Ollama • 🔍 FAISS • 🧠 RAG
+
+</p>
+
+---
+
+# 🌟 Experience
+
+### 💼 Student Trainee @ Rakuten India
+
+🌸 Built full-stack applications across frontend and backend.
+
+⚡ Developed secure REST APIs using Spring Boot, Node.js and PostgreSQL.
+
+☁️ Worked with AWS, Docker and CI/CD pipelines.
+
+🤖 Built AI applications using LangChain, FAISS and LLMs.
+
+🚀 Explored Kafka, Redis and microservice architecture.
 
 ---
 
-# 🤖 AI Toolkit
-
-<div align="center">
-
-🦜 LangChain • 🕸️ LangGraph • 🤗 Hugging Face • 🦙 Ollama
-
-🔍 FAISS • 🧠 RAG • ⚡ FastAPI
-
-</div>
-
----
-
-# 🌟 Featured Projects
-
-## 🔗 URL Shortener Service
-
-**Spring Boot • PostgreSQL • Redis • Docker**
-
-✨ A production-ready Bitly-like URL shortener featuring:
-
-- Collision-safe Base62 ID generation
-- Redis caching
-- JWT authentication
-- Rate limiting using Bucket4j
-- Click analytics
-- Centralized exception handling
-
----
+# 🚀 Featured Projects
 
 ## 🤖 Multi-Model Evaluation Dashboard
 
-**FastAPI • Ollama • Python • SQLite**
+🐍 **FastAPI • Ollama • SQLite**
 
-Compare multiple LLMs across
+✨ Compare multiple LLMs using latency, response quality and token usage with an LLM-as-a-Judge evaluation pipeline.
 
-✨ Latency
+---
 
-✨ Token usage
+## 🔗 URL Shortener Service
 
-✨ Quality scoring
+☕ **Spring Boot • Redis • PostgreSQL**
 
-✨ LLM-as-a-Judge evaluation
+Production-ready URL shortening service featuring:
+
+- Base62 Encoding
+- Redis Caching
+- Rate Limiting
+- Click Analytics
+- JWT Authentication
+- Centralized Exception Handling
 
 ---
 
 ## 💰 Personal Finance Tracker
 
-**Node.js • Express • PostgreSQL • Redis**
+⚡ **Node.js • Express • PostgreSQL • Redis**
 
-Features
+Backend finance application featuring
 
 - JWT Authentication
 - Refresh Tokens
-- Redis Caching
+- Redis Cache
 - Cron Jobs
+- Filtering & Pagination
 - Rate Limiting
-- Pagination & Filtering
 
 ---
 
-## 📄 PDF Chatbot
+## 🤖 PDF Chatbot
 
-**FastAPI • LangChain • FAISS**
+🐍 **Python • FastAPI • LangChain • FAISS**
 
-Ask questions from PDFs using Retrieval-Augmented Generation and local LLMs.
-
----
-
-## ♻️ Smart Waste Management
-
-**React • IoT • Arduino • Supabase**
-
-IoT-enabled waste monitoring system with role-based dashboards and real-time sensor integration.
+Chat with PDFs using Retrieval-Augmented Generation and local LLMs.
 
 ---
 
@@ -189,7 +169,7 @@ IoT-enabled waste monitoring system with role-based dashboards and real-time sen
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swathikn61&theme=rose_pine"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swathikn61&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -197,50 +177,68 @@ IoT-enabled waste monitoring system with role-based dashboards and real-time sen
 
 # 🌱 Currently Exploring
 
-🌸 Kubernetes
+🌸 System Design
 
-☁️ AWS
+☁️ Cloud Computing
 
 ⚡ Distributed Systems
 
-📦 Docker
+📦 Docker & Kubernetes
 
 📨 Kafka
 
-🧠 Agentic AI
+🧠 AI Infrastructure
 
-🔍 Retrieval-Augmented Generation
+🤖 Agentic AI
 
-🏗️ System Design
+🦜 LangGraph & MCP
 
 ---
 
-# ☕ Beyond Coding
+# 🌸 A Little More About Me
 
-```text
-🌷 Building side projects
-📖 Reading engineering blogs
-🎧 Coding with lo-fi playlists
-💜 Learning one new thing every day
-✨ Turning ideas into products
+```yaml
+name: Swathi
+
+pronouns: she/her
+
+currently_building:
+  - Backend Systems
+  - AI Applications
+  - RAG Projects
+
+currently_learning:
+  - Kubernetes
+  - Distributed Systems
+  - LLM Engineering
+
+ask_me_about:
+  - Spring Boot
+  - FastAPI
+  - LangChain
+  - Docker
+  - Backend APIs
+
+fun_fact:
+  "I enjoy turning coffee ☕ into clean APIs and AI applications."
 ```
 
 ---
 
-# 💌 Let's Connect
+# 💌 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/swathikn">
-<img src="https://img.shields.io/badge/LinkedIn-C792EA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:swathikn6142@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-F48FB1?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-f48fb1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/swathikn61">
-<img src="https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -249,8 +247,8 @@ IoT-enabled waste monitoring system with role-based dashboards and real-time sen
 
 <div align="center">
 
-### 🌷 *"Building software that's scalable, reliable, and a little magical."* ✨
+### 🌷 *"Building software that makes life a little easier, one commit at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C792EA,50:F48FB1,100:FFD6E8&height=120&section=footer"/>
+⭐ Thanks for stopping by — happy coding! 💜
 
 </div>
