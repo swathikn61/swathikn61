@@ -2,7 +2,7 @@
 
 # ✨ Hi, I'm Swathi K N 👋
 
-### 💻 Backend Engineer • 🌸 Full Stack Developer • 🤖 AI Engineer
+### 💻 Backend Engineer • </> Full Stack Developer • 🤖 AI Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=F48FB1&center=true&vCenter=true&width=750&lines=Building+Production-Ready+Software+✨;Backend+Engineering+☕;Spring+Boot+%7C+Python+%7C+React;AI+Applications+%7C+RAG+%7C+LangChain;Always+Learning+Something+New+🌷" />
 
