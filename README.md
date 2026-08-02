@@ -76,33 +76,25 @@ What I enjoy working on
 
 # 🚀 Featured Projects
 
-## 🤖 Multi-Model Evaluation Dashboard
-
-**FastAPI • Ollama • SQLite**
+## Multi-Model Evaluation Dashboard
 
 An evaluation platform for comparing multiple Large Language Models on the same prompts. The dashboard measures latency, token usage, and response quality using an LLM-as-a-judge pipeline, while storing historical evaluations for side-by-side analysis.
 
 ---
 
-## 🔗 URL Shortener Service
-
-**Spring Boot • PostgreSQL • Redis • Docker**
+## URL Shortener Service
 
 A production-ready Bitly-inspired URL shortening service built with scalable backend architecture. It features collision-safe Base62 short-code generation, Redis caching, click analytics, rate limiting, and centralized exception handling.
 
 ---
 
-## 💰 Personal Finance Tracker
-
-**Node.js • Express • TypeScript • PostgreSQL • Redis**
+## Personal Finance Tracker
 
 A backend finance management application that enables users to securely track income and expenses. It includes JWT authentication, scheduled financial summaries, Redis caching, filtering, sorting, pagination, and rate limiting.
 
 ---
 
-## 🤖 PDF Chatbot
-
-**Python • FastAPI • LangChain • FAISS • Ollama**
+## PDF Chatbot
 
 An AI-powered document assistant that lets users upload PDFs and ask questions in natural language. The application uses Retrieval-Augmented Generation (RAG) with vector embeddings to retrieve relevant document context before generating responses.
 
