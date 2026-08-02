@@ -1,283 +1,188 @@
 <div align="center">
 
-# 👾 SWATHI.EXE
+# ✨ Hi, I'm Swathi 👋
 
-### `Backend Engineer` • `AI Engineer` • `Full Stack Developer`
+### 💻 Backend Engineer • 🌸 Full Stack Developer • 🤖 AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Initializing+Developer+Profile...;Loading+Backend+Modules...;Launching+AI+Systems...;Building+Production-Ready+Software...;Welcome+to+Swathi.exe+👾" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=F48FB1&center=true&vCenter=true&width=700&lines=Building+Production-Ready+Software+✨;Backend+%7C+AI+Engineering;Spring+Boot+%7C+Python+%7C+React;Always+Learning+Something+New+🌷" />
 
-<img src="https://komarev.com/ghpvc/?username=swathikn61&style=for-the-badge&color=8b5cf6"/>
+<img src="https://komarev.com/ghpvc/?username=swathikn61&label=Profile+Views&color=ff69b4&style=flat-square" />
 
 </div>
 
 ---
 
-```text
-██████████████████████████████████████████
+# 🌸 About Me
 
-          PLAYER PROFILE
+<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-Name      : Swathi
-Class     : Software Engineer
-Role      : Backend + AI
-Level     : SDE-1
-Location  : India
+🌷 I enjoy building software that is **simple, scalable, and reliable.**
 
-Status    : 🟢 Coding...
+💖 Passionate about
 
-██████████████████████████████████████████
-```
+- 🤖 AI Engineering
+- ⚙️ Backend Development
+- ☁️ Cloud & Distributed Systems
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🧠 Agentic AI
 
-## 🎮 Current Quest
+✨ Currently learning
 
-```diff
-+ Build scalable backend systems
-+ Learn distributed systems
-+ Explore Agentic AI
-+ Contribute to Open Source
-+ Solve DSA consistently
-```
+- Kubernetes
+- Kafka
+- Redis
+- MCP
+- System Design
+
+💌 Always excited to collaborate on interesting projects.
+
+<br>
 
 ---
 
-# 🎒 Inventory (Tech Stack)
+# 💕 Tech Stack
 
-### 💻 Languages
+### 👩‍💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,ts,js"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,ts,js" />
 </p>
 
 ### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
 </p>
 
 ### 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
 ### 🗄 Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
 </p>
 
-### ☁️ Dev Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux"/>
-</p>
-
-### 🤖 AI Stack
-
-```text
-🦜 LangChain
-🦙 Ollama
-🤗 HuggingFace
-📚 FAISS
-🧠 RAG
-⚡ FastAPI
-```
-
----
-
-# ⚔️ Quest Log
-
-## 🔗 URL Shortener
-
-```text
-Status : ✔ Completed
-
-Stack
-Spring Boot
-Redis
-Docker
-JWT
-PostgreSQL
-
-Features
-
-✓ Analytics
-✓ Rate Limiting
-✓ Authentication
-✓ Production Ready
-```
-
----
-
-## 🤖 PDF Chatbot
-
-```text
-Status : ✔ Completed
-
-Python
-FastAPI
-LangChain
-FAISS
-LLMs
-
-Abilities
-
-✓ Semantic Search
-✓ PDF Question Answering
-✓ RAG Pipeline
-```
-
----
-
-## 💰 Personal Finance Tracker
-
-```text
-Status : ✔ Completed
-
-React
-TypeScript
-PostgreSQL
-
-Features
-
-✓ Expense Tracking
-✓ Dashboard
-✓ Budget Management
-```
-
----
-
-## 🧳 Adaptive Trip Planner
-
-```text
-Status : ✔ Completed
-
-AI-powered travel planning
-
-Personalized recommendations
-
-Interactive itinerary generation
-```
-
----
-
-# 📊 Character Stats
+### 🤖 AI
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=swathikn61&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathikn61&layout=compact&theme=tokyonight&hide_border=true"/>
+🦜 LangChain • 🤗 Hugging Face • 🦙 Ollama • 🔍 FAISS • 🧠 RAG
 
 </p>
 
 ---
 
-# 🔥 Combo Streak
+# 🌟 Featured Projects
 
-<p align="center">
+### 🔗 URL Shortener
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=swathikn61&theme=tokyonight&hide_border=true"/>
+🚀 Spring Boot • Redis • Docker • JWT
 
-</p>
-
----
-
-# 📈 Experience Bar
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swathikn61&theme=tokyo-night&hide_border=true"/>
-
-</p>
+Production-ready URL shortening service with caching, authentication and analytics.
 
 ---
 
-# 🏆 Skill Tree
+### 🤖 PDF Chatbot
 
-```text
-Backend Engineering     ██████████ 90%
+🐍 FastAPI • LangChain • FAISS • LLM
 
-Spring Boot             █████████░ 85%
-
-Python                  █████████░ 85%
-
-React                   ████████░░ 80%
-
-AI Engineering          ███████░░░ 75%
-
-System Design           ██████░░░░ 60%
-
-Cloud                   █████░░░░░ 50%
-```
+Chat with PDFs using Retrieval-Augmented Generation.
 
 ---
 
-# 🌱 Currently Grinding
+### 💰 Personal Finance Tracker
 
-```text
-🟣 Distributed Systems
+⚛️ React • PostgreSQL • TypeScript
 
-🟣 Kafka
-
-🟣 Kubernetes
-
-🟣 Redis
-
-🟣 Docker
-
-🟣 Agentic AI
-
-🟣 MCP
-
-🟣 LLM Infrastructure
-```
+Track expenses, budgets and financial insights.
 
 ---
 
-# 📬 Multiplayer Mode
+### 🧳 Adaptive Trip Planner
 
-<p align="center">
+✨ AI-powered travel planner with personalized recommendations.
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+---
 
-<img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+### 📊 Multi-Model Evaluation Dashboard
 
-</a>
+Compare outputs from multiple Large Language Models.
 
-<a href="mailto:YOUR_EMAIL">
+---
 
-<img src="https://img.shields.io/badge/Gmail-ec4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+# 📈 GitHub Analytics
 
-</a>
+<div align="center">
 
-<a href="https://github.com/swathikn61">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=swathikn61&show_icons=true&theme=rose_pine&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathikn61&layout=compact&theme=rose_pine&hide_border=true"/>
 
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-```text
-██████████████████████████████████████
+<img src="https://github-readme-streak-stats.herokuapp.com?user=swathikn61&theme=rose-pine&hide_border=true"/>
 
-MISSION STATUS
+</div>
 
-✔ Building Reliable Software
+---
 
-✔ Learning Every Day
+<div align="center">
 
-✔ Shipping Cool Projects
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swathikn61&theme=tokyo-night&hide_border=true"/>
 
-Press START to Continue...
+</div>
 
-██████████████████████████████████████
-```
+---
+
+# 🌱 Currently Exploring
+
+🌸 System Design
+
+☁️ Cloud Computing
+
+⚡ Distributed Systems
+
+📦 Docker & Kubernetes
+
+📨 Kafka
+
+🧠 AI Infrastructure
+
+🤖 Agentic AI
+
+---
+
+# 💌 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-f48fb1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/swathikn61">
+<img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌷 *"Building software that makes life a little easier, one commit at a time."*
 
 ⭐ Thanks for visiting my profile!
 
