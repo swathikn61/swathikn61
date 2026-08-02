@@ -195,32 +195,26 @@ Chat with PDFs using Retrieval-Augmented Generation and local LLMs.
 
 ---
 
-# 🌸 A Little More About Me
+## 🌸 terminal.sh
 
-```yaml
-name: Swathi
+```bash
+$ whoami
+Swathi
 
-pronouns: she/her
+$ role
+Backend Engineer | AI Engineer
 
-currently_building:
-  - Backend Systems
-  - AI Applications
-  - RAG Projects
+$ passion
+Building scalable software
 
-currently_learning:
-  - Kubernetes
-  - Distributed Systems
-  - LLM Engineering
+$ current_focus
+Production-grade backend systems
 
-ask_me_about:
-  - Spring Boot
-  - FastAPI
-  - LangChain
-  - Docker
-  - Backend APIs
+$ favorite_stack
+Spring Boot + PostgreSQL + Redis + Docker
 
-fun_fact:
-  "I enjoy turning coffee ☕ into clean APIs and AI applications."
+$ status
+Always shipping 🚀
 ```
 
 ---
