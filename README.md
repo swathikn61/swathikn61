@@ -14,7 +14,7 @@
 
 # 🌸 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
 🌷 I enjoy building software that is **simple, scalable, and reliable.**
 
