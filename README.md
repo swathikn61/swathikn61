@@ -83,22 +83,6 @@
 
 ---
 
-# 🌟 Experience
-
-### 💼 Student Trainee @ Rakuten India
-
-🌸 Built full-stack applications across frontend and backend.
-
-⚡ Developed secure REST APIs using Spring Boot, Node.js and PostgreSQL.
-
-☁️ Worked with AWS, Docker and CI/CD pipelines.
-
-🤖 Built AI applications using LangChain, FAISS and LLMs.
-
-🚀 Explored Kafka, Redis and microservice architecture.
-
----
-
 # 🚀 Featured Projects
 
 ## 🤖 Multi-Model Evaluation Dashboard
