@@ -32,7 +32,7 @@ What I enjoy working on
 
 ---
 
-# 💕 Tech Stack
+# 📚 Tech Stack
 
 ### 👩‍💻 Languages
 
