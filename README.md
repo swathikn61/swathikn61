@@ -18,7 +18,7 @@
 
 🌷 I love building **production-ready backend systems, AI-powered applications, and scalable full-stack products.**
 
-💖 What I enjoy working on
+What I enjoy working on
 
 - ⚙️ Backend Engineering
 - 🤖 AI Engineering
