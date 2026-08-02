@@ -87,23 +87,15 @@
 
 ## 🤖 Multi-Model Evaluation Dashboard
 
-🐍 **FastAPI • Ollama • SQLite**
+**FastAPI • Ollama • SQLite**
 
 An evaluation platform for comparing multiple Large Language Models on the same prompts. The dashboard measures latency, token usage, and response quality using an LLM-as-a-judge pipeline, while storing historical evaluations for side-by-side analysis.
-
-Highlights
-
-• Compare multiple LLMs on identical prompts
-• Measure latency, token usage, and quality scores
-• Automated LLM-as-a-Judge evaluation
-• Track evaluation history with SQLite
-• Built with FastAPI and Ollama
 
 ---
 
 ## 🔗 URL Shortener Service
 
-☕ **Spring Boot • PostgreSQL • Redis • Docker**
+**Spring Boot • PostgreSQL • Redis • Docker**
 
 A production-ready Bitly-inspired URL shortening service built with scalable backend architecture. It features collision-safe Base62 short-code generation, Redis caching, click analytics, rate limiting, and centralized exception handling.
 
@@ -111,7 +103,7 @@ A production-ready Bitly-inspired URL shortening service built with scalable bac
 
 ## 💰 Personal Finance Tracker
 
-⚡ **Node.js • Express • TypeScript • PostgreSQL • Redis**
+**Node.js • Express • TypeScript • PostgreSQL • Redis**
 
 A backend finance management application that enables users to securely track income and expenses. It includes JWT authentication, scheduled financial summaries, Redis caching, filtering, sorting, pagination, and rate limiting.
 
@@ -119,7 +111,7 @@ A backend finance management application that enables users to securely track in
 
 ## 🤖 PDF Chatbot
 
-🐍 **Python • FastAPI • LangChain • FAISS • Ollama**
+**Python • FastAPI • LangChain • FAISS • Ollama**
 
 An AI-powered document assistant that lets users upload PDFs and ask questions in natural language. The application uses Retrieval-Augmented Generation (RAG) with vector embeddings to retrieve relevant document context before generating responses.
 
