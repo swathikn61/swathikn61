@@ -217,7 +217,7 @@ Always shipping 🚀
 
 <div align="center">
 
-### 🌷 *"Building software that makes life a little easier, one commit at a time."*
+### *"Building software that makes life a little easier, one commit at a time."*
 
 ⭐ Thanks for stopping by - happy coding! 💜
 
