@@ -91,6 +91,14 @@
 
 An evaluation platform for comparing multiple Large Language Models on the same prompts. The dashboard measures latency, token usage, and response quality using an LLM-as-a-judge pipeline, while storing historical evaluations for side-by-side analysis.
 
+Highlights
+
+• Compare multiple LLMs on identical prompts
+• Measure latency, token usage, and quality scores
+• Automated LLM-as-a-Judge evaluation
+• Track evaluation history with SQLite
+• Built with FastAPI and Ollama
+
 ---
 
 ## 🔗 URL Shortener Service
