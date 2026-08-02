@@ -12,11 +12,11 @@
 
 ---
 
-# 🌸 About Me
+# About Me
 
 <img align="right" width="290" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🌷 I love building **production-ready backend systems, AI-powered applications, and scalable full-stack products.**
+I love building **production-ready backend systems, AI-powered applications, and scalable full-stack products.**
 
 What I enjoy working on
 
