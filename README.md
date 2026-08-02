@@ -144,7 +144,7 @@ An AI-powered document assistant that lets users upload PDFs and ask questions i
 
 ---
 
-## terminal.sh
+## 👾 terminal.sh
 
 ```bash
 $ whoami
