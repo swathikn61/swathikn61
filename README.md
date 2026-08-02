@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hi, I'm Swathi 👋
+# ✨ Hi, I'm Swathi K N 👋
 
 ### 💻 Backend Engineer • 🌸 Full Stack Developer • 🤖 AI Engineer
 
