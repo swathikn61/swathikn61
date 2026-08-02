@@ -26,15 +26,6 @@
 - 📚 Retrieval-Augmented Generation (RAG)
 - ☁️ Cloud & Distributed Systems
 
-✨ Currently exploring
-
-- Kubernetes
-- Kafka
-- Redis
-- MCP
-- System Design
-- AI Infrastructure
-
 💌 Open to collaborating on backend, AI, and full-stack projects.
 
 <br>
@@ -77,7 +68,7 @@
 
 <p align="center">
 
-🦜 LangChain • 🕸️ LangGraph • 🤗 Hugging Face • 🦙 Ollama • 🔍 FAISS • 🧠 RAG
+🦜 LangChain • 🕸️ LangGraph • 🦙 Ollama • 🔍 FAISS • 🧠 RAG
 
 </p>
 
@@ -157,7 +148,7 @@ An AI-powered document assistant that lets users upload PDFs and ask questions i
 
 ---
 
-## 🌸 terminal.sh
+## terminal.sh
 
 ```bash
 $ whoami
