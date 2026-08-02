@@ -89,45 +89,31 @@
 
 🐍 **FastAPI • Ollama • SQLite**
 
-✨ Compare multiple LLMs using latency, response quality and token usage with an LLM-as-a-Judge evaluation pipeline.
+An evaluation platform for comparing multiple Large Language Models on the same prompts. The dashboard measures latency, token usage, and response quality using an LLM-as-a-judge pipeline, while storing historical evaluations for side-by-side analysis.
 
 ---
 
 ## 🔗 URL Shortener Service
 
-☕ **Spring Boot • Redis • PostgreSQL**
+☕ **Spring Boot • PostgreSQL • Redis • Docker**
 
-Production-ready URL shortening service featuring:
-
-- Base62 Encoding
-- Redis Caching
-- Rate Limiting
-- Click Analytics
-- JWT Authentication
-- Centralized Exception Handling
+A production-ready Bitly-inspired URL shortening service built with scalable backend architecture. It features collision-safe Base62 short-code generation, Redis caching, click analytics, rate limiting, and centralized exception handling.
 
 ---
 
 ## 💰 Personal Finance Tracker
 
-⚡ **Node.js • Express • PostgreSQL • Redis**
+⚡ **Node.js • Express • TypeScript • PostgreSQL • Redis**
 
-Backend finance application featuring
-
-- JWT Authentication
-- Refresh Tokens
-- Redis Cache
-- Cron Jobs
-- Filtering & Pagination
-- Rate Limiting
+A backend finance management application that enables users to securely track income and expenses. It includes JWT authentication, scheduled financial summaries, Redis caching, filtering, sorting, pagination, and rate limiting.
 
 ---
 
 ## 🤖 PDF Chatbot
 
-🐍 **Python • FastAPI • LangChain • FAISS**
+🐍 **Python • FastAPI • LangChain • FAISS • Ollama**
 
-Chat with PDFs using Retrieval-Augmented Generation and local LLMs.
+An AI-powered document assistant that lets users upload PDFs and ask questions in natural language. The application uses Retrieval-Augmented Generation (RAG) with vector embeddings to retrieve relevant document context before generating responses.
 
 ---
 
