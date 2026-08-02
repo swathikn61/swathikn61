@@ -1,34 +1,46 @@
 <div align="center">
 
-# ✨ Hey there, I'm Swathi 👋
+<img src="./assets/banner.png" width="100%" alt="Banner"/>
+
+# 💜 Hi, I'm Swathi 👋
 
 ### 🌸 Backend Engineer • AI Enthusiast • Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=C792EA&center=true&vCenter=true&width=700&lines=Building+Production-Ready+Software+✨;Spring+Boot+%7C+Python+%7C+React;Backend+Engineering+☁️;AI+Applications+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%8C%B8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C792EA&center=true&vCenter=true&width=700&lines=Building+Production-Ready+Software+✨;Spring+Boot+•+Python+•+React;Backend+Engineering+☁️;AI+Applications+🤖;Always+Learning+Something+New+🌸"/>
 
-<img src="https://komarev.com/ghpvc/?username=swathikn61&label=Visitors&color=blueviolet&style=flat" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=swathikn61&label=Profile+Views&color=8b5cf6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/swathikn61?style=flat-square&color=8b5cf6"/>
+<img src="https://img.shields.io/github/stars/swathikn61?style=flat-square&color=8b5cf6"/>
+</p>
 
 </div>
 
 ---
 
-## 🌷 About Me
+# 🌷 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg3YzF3a2FjN3A2YjF0N2lwbm11eWF0ZnV4aWZ0cXR4NmRib2o2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
 
-💜 Computer Science student passionate about building **production-ready backend systems** and **AI-powered applications**.
+✨ I love building **backend systems**, **AI-powered applications**, and **full-stack products** that solve real-world problems.
 
-✨ I love turning ideas into reliable software—from designing REST APIs and caching strategies to integrating LLMs and building end-to-end applications.
-
-🌱 Currently exploring
+💜 Things I enjoy working on:
 
 - 🤖 Agentic AI
-- 📚 RAG Pipelines
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚙️ Backend Engineering
 - ☁️ Cloud Computing
-- ⚡ Distributed Systems
-- 🧠 System Design
+- 🚀 Distributed Systems
 
-💌 Always excited to learn, build, and collaborate.
+🌱 Currently learning
+
+- Kubernetes
+- Kafka
+- Redis
+- MCP
+- AWS
+
+☕ Fuelled by coffee, curiosity, and late-night debugging.
 
 ---
 
@@ -52,15 +64,17 @@
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase"/>
 
-### DevOps & Tools
+### DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
 
 </div>
 
-### 🤖 AI Toolkit
+---
 
-```txt
+## 🤖 AI Toolkit
+
+```text
 🦜 LangChain
 🦙 Ollama
 🤗 Hugging Face
@@ -73,43 +87,17 @@
 
 # 🌟 Featured Projects
 
-## 🔗 URL Shortener
-
-🚀 Spring Boot • Redis • JWT • Docker
-
-✨ Production-ready URL shortening service with analytics, rate limiting and caching.
-
----
-
-## 🤖 PDF Chatbot
-
-🐍 Python • FastAPI • LangChain • FAISS
-
-💬 Chat with your PDFs using Retrieval-Augmented Generation.
+| 🚀 Project | Description |
+|------------|-------------|
+| 🔗 URL Shortener | Production-ready URL shortening service using Spring Boot, Redis, JWT & Docker |
+| 🤖 PDF Chatbot | Chat with PDFs using LangChain, FastAPI & FAISS |
+| 💰 Personal Finance Tracker | Expense tracking dashboard with React & PostgreSQL |
+| ✈️ Adaptive Trip | AI-powered personalized trip planner |
+| 📊 Multi-Model Evaluation Dashboard | Compare outputs from multiple LLMs |
 
 ---
 
-## 💰 Finance Tracker
-
-⚛️ React • PostgreSQL • TypeScript
-
-📈 Track expenses, manage budgets and visualize financial insights.
-
----
-
-## 🧳 Adaptive Trip Planner
-
-🌍 AI-powered travel planner with personalized recommendations.
-
----
-
-## 📊 Multi-LLM Evaluation Dashboard
-
-Compare multiple LLM responses side by side.
-
----
-
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -129,17 +117,27 @@ Compare multiple LLM responses side by side.
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swathikn61&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swathikn61&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌸 Currently Learning
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=swathikn61&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🌸 Currently Exploring
 
 ```yaml
 Backend:
@@ -148,10 +146,10 @@ Backend:
   - Redis
   - Kafka
 
-AI:
+Artificial Intelligence:
   - LangChain
-  - MCP
   - Agentic AI
+  - MCP
   - RAG
 
 Cloud:
@@ -162,26 +160,31 @@ Cloud:
 
 ---
 
-# ☕ Fun Facts
+# ☕ Fun Fact
 
 ```python
 class Swathi:
 
-    def __init__(self):
-        self.code = ["Java", "Python", "TypeScript"]
-        self.backend = ["Spring Boot", "FastAPI"]
-        self.ai = ["LangChain", "Ollama", "RAG"]
-        self.coffee = True
-        self.music = True
-        self.debugging = "Never ends 😂"
+    role = "Backend + AI Engineer"
 
-    def life(self):
-        return "Code • Learn • Build • Repeat ✨"
+    languages = [
+        "Java",
+        "Python",
+        "TypeScript"
+    ]
+
+    currently_learning = [
+        "Agentic AI",
+        "System Design",
+        "Cloud"
+    ]
+
+    life = "Build • Learn • Deploy • Repeat ✨"
 ```
 
 ---
 
-# 💌 Let's Connect
+# 💜 Let's Connect
 
 <div align="center">
 
@@ -203,8 +206,8 @@ class Swathi:
 
 <div align="center">
 
-### 🌙 *"Building software that is reliable, scalable, and just a little bit magical ✨"*
+### 💜 "Build • Learn • Deploy • Repeat"
 
-⭐ Thanks for stopping by!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=footer"/>
 
 </div>
