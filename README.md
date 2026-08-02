@@ -12,7 +12,7 @@
 
 ---
 
-# About Me
+# ⭐ About Me
 
 <img align="right" width="290" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
