@@ -117,9 +117,6 @@ An AI-powered document assistant that lets users upload PDFs and ask questions i
 $ whoami
 Swathi
 
-$ role
-Backend Engineer | AI Engineer
-
 $ passion
 Building scalable software
 
